@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi there 👋 I am Pranay Sadani
 
-<!--
-**PranaySadani/PranaySadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently starting a start-up
+- 🌱 I’m currently learning react native
+- 👯 I’m looking to collaborate on a website/app
+- 🤔 I’m looking for website developers 
+- 💬 Ask me about coding related queries
+- 📫 How to reach me: pranay.sadani@gmail.com
+
+- ⚡ Fun fact: Coding gives me the strenght to wake up everyday in the morning
+
+<a href="https://github.com/PranaySadani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaySadani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/PranaySadani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=PranaySadani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Pranay's GitHub Stats" />
+</a>
+
+
+
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranaySadani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ -->
