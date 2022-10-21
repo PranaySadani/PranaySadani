@@ -10,7 +10,6 @@ Hi there 👋 I am Pranay Sadani
 - 💬 Ask me about coding related queries
 - 📫 How to reach me: pranay.sadani@gmail.com
 
-- ⚡ Fun fact: Coding gives me the strenght to wake up everyday in the morning
 
 <a href="https://github.com/PranaySadani">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaySadani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
